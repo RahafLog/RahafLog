@@ -1,6 +1,8 @@
 <p align="center">
   <img src="github-header-image%20(1).png"
 </p>
+
+  
 *****
 <p align="center">
       Passionate about AI and Data science, I would love to learn about and experiment with other areas of technology.

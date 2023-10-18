@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=RahafLog&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
+*****
+### Hi there
 <!--
 **RahafLog/RahafLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

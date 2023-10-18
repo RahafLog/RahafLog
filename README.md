@@ -16,7 +16,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahafLog)](https://github.com/RahafLog/github-readme-stats&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahafLog)](https://github.com/RahafLog/github-readme-stats&show_icons=true&theme=onedark)
 <!--
 **RahafLog/RahafLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,10 +3,9 @@
 <p align="center">
 ✨     Passionate about AI and Data science, I would love to learn about and experiment with other areas of technology.
        Because of that, I like to challenge myself to try something new 🚀. On my GitHub profile, you'll find a collection 
-                  of projects that I worked on during my learning journey to gain knowledge and skills    ✨
+                  of projects that I worked on during my learning journey to gain knowledge and skills    ✨ </p> 
 
 ![](https://komarev.com/ghpvc/?username=RahafLog&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
-</p> 
 *****
 ### 🌱 I’m currently learning
 Data Science and AI ⚡

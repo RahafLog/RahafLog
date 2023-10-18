@@ -1,4 +1,4 @@
-![Header](github-header-image.png)
+![Header](github-header-image%20(1).png)
 *****
 <p align="center">
       Passionate about AI and Data science, I would love to learn about and experiment with other areas of technology.
@@ -26,7 +26,8 @@ Data Science and AI ⚡
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![image](https://github.com/RahafLog/RahafLog/assets/98055470/d07f729e-c6e8-467f-babd-d194922c10d4)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahafLog&show_icons=true&theme=tokyonight)](https://github.com/RahafLog/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahafLog&size_weight=0.2&count_weight=0.2&theme=tokyonight&hide_progress=true)](https://github.com/RahafLog/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahafLog&size_weight=0.2&count_weight=0.2&theme=tokyonight&hide_progress=true)](https://github.com/RahafLog/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahafLog&show_icons=true&theme=tokyonight)](https://github.com/RahafLog/github-readme-stats)
 <!--
 **RahafLog/RahafLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

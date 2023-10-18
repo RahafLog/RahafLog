@@ -1,5 +1,4 @@
-![Header]([github-header-image.png])
-
+![Header](./[github-header-image.png])
 *****
  ✨     Passionate about AI and Data science, I would love to learn about and experiment with other areas of technology.
        Because of that, I like to challenge myself to try something new 🚀. On my GitHub profile, you'll find a collection 

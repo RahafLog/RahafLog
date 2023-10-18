@@ -5,7 +5,7 @@
        Because of that, I like to challenge myself to try something new 🚀. On my GitHub profile, you'll find 
          a collection of projects that I worked on during my learning journey to gain knowledge and skills ✨ </p> 
 
-<p align="center"> ![](https://komarev.com/ghpvc/?username=RahafLog&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)</p> 
+![](https://komarev.com/ghpvc/?username=RahafLog&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
 *****
 ### 🌱 I’m currently learning
 Data Science and AI ⚡

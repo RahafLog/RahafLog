@@ -8,7 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=RahafLog&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
 *****
 ### 🌱 I’m currently learning
-Data Science and AI ⚡
+Data Science and AI ⚡![image](https://github.com/RahafLog/RahafLog/assets/98055470/454a8cd8-b8fc-41b1-97a2-fca3e01fa24d)
+
 
 *****
 ### 💬 Find me elsewhere 

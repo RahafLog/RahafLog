@@ -1,4 +1,4 @@
-![Header](./[![github-header-image](https://github.com/RahafLog/RahafLog/assets/98055470/698e4596-2b32-439c-a49c-501662611bd2)
+(./[![github-header-image](https://github.com/RahafLog/RahafLog/assets/98055470/698e4596-2b32-439c-a49c-501662611bd2)
 ])
 *****
  ✨     Passionate about AI and Data science, I would love to learn about and experiment with other areas of technology.

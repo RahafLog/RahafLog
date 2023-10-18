@@ -10,7 +10,7 @@ Data Science and AI ⚡
 
 *****
 ### 💬 Find me elsewhere 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Rahyeol20)](https://github.com/gazf/github-readme-twitter)
+
 
 *****
 ### ✨ Tools I use

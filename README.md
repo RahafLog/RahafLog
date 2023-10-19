@@ -53,9 +53,9 @@ Data Science and AI </p>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-
+<div align="center">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahafLog&size_weight=0.2&count_weight=0.2&theme=tokyonight&hide_progress=true)](https://github.com/RahafLog/github-readme-stats)         [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahafLog&show_icons=true&theme=tokyonight)](https://github.com/RahafLog/github-readme-stats)
-
+</div>
      
 
 <!--

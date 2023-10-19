@@ -15,11 +15,10 @@
    </div>
    
 *****
+### 🌱 I’m currently learning 
 
 <p align="center">
-### 🌱 I’m currently learning 
 Data Science and AI </p>
-
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
    <img src= "https://github.com/RahafLog/RahafLog/assets/98055470/454a8cd8-b8fc-41b1-97a2-fca3e01fa24d"/>

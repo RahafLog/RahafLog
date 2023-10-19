@@ -51,10 +51,12 @@ Data Science and AI
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RahafLog&size_weight=0.2&count_weight=0.2&theme=tokyonight&hide_progress=true"/>
-   <img src= "https://github-readme-stats.vercel.app/api?username=RahafLog&show_icons=true&theme=tokyonight)](https://github.com/RahafLog/github-readme-stats"/>
+   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RahafLog&size_weight=0.2&count_weight=0.2&theme=tokyonight&hide_progress=true)](https://github.com/RahafLog/github-readme-stats)"/>
+   <img src= "https://github-readme-stats.vercel.app/api?username=RahafLog&show_icons=true&theme=tokyonight)](https://github.com/RahafLog/github-readme-stats)"/>
     </div>
    </div>
+
+     
 
 <!--
 **RahafLog/RahafLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
